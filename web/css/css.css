@@ -1,0 +1,24 @@
+/* 
+    Created on : 23/11/2016, 13:55:34
+    Author     : Juliano Ramos
+*/
+
+html { height: 100%;}
+*{    margin: 0;  padding: 0;}
+
+body{
+      margin: 0px;
+      padding: 0px;
+}
+	
+.btn{   
+      text-align: center;
+      width: 20px;
+      height: 20px;
+}
+
+#main
+{ 
+  margin-left: auto; 
+  margin-right: auto;
+}
